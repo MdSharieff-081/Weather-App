@@ -52,7 +52,7 @@ Enter a city name to fetch real-time weather data including:
 - **React.js** – Frontend Framework
 - **Material UI** – Styling and UI components
 - **OpenWeatherMap API** – Fetching live weather data
-- **Axios**  – For HTTP requests
+
 
 ---
 
