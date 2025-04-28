@@ -27,7 +27,7 @@ Enter a city name to fetch real-time weather data including:
 ## 🚀 Live Demo
 
 🌐 **Check out the live app here:** [Weather App Live](https://weather-app-gamma-five-51.vercel.app/)  
-*(Replace `#` with your deployed app link once ready.)*
+
 
 ---
 
