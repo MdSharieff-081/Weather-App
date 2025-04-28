@@ -78,7 +78,7 @@ Follow these steps to run the project locally:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/MdSharieff-081/weather-app.git
    cd weather-app
 
 2. **Install dependencies**
