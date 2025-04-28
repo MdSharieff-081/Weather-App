@@ -26,7 +26,7 @@ Enter a city name to fetch real-time weather data including:
 
 ## 🚀 Live Demo
 
-🌐 **Check out the live app here:** [Weather App Live](https://weather-1eus5yhaf-md-sharieffs-projects.vercel.app/)  
+🌐 **Check out the live app here:** [Weather App Live](https://weather-b3kkw6bfn-md-sharieffs-projects.vercel.app/)  
 
 
 ---
