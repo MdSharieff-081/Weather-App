@@ -27,7 +27,7 @@ Enter a city name to fetch real-time weather data including:
 ## 🚀 Live Demo
 
 🌐 **Check out the live app here:** [Weather App Live](https://weather-app-gamma-five-51.vercel.app/)  
-*(Replace `#` with your deployed app link once ready.)*
+
 
 ---
 
@@ -78,7 +78,7 @@ Follow these steps to run the project locally:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/MdSharieff-081/weather-app.git
    cd weather-app
 
 2. **Install dependencies**
