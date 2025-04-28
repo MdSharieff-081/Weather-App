@@ -9,8 +9,8 @@ export default function WeatherApp(){
         city:"Kakinada",
         feelsLike:38.23,
         temp:36.57,
-        tempMin:36.57,
-        tempMax:36.57,
+        temp_min:36.57,
+        temp_max:36.57,
         humidity:34,
         weather:"clear sky",
     });
